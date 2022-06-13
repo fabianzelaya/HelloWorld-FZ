@@ -3,6 +3,7 @@
 
 int main()
 {
+    // This program will print Hello, World! to the console.
     std::cout << "Hello, World!" << std::endl;
 
     // How many times "Hello, World!" is printed?
